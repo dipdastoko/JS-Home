@@ -30,3 +30,4 @@ const calculateIncomeTaxAmount = createTaxCalculator(0.25);
 
 console.log(calculateVatAmount(200));
 console.log(calculateIncomeTaxAmount(100));
+// ksfgjlkjgs
